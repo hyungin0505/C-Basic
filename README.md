@@ -14,24 +14,26 @@ C언어 컴파일 및 빌드부터 포인터, 문자열에 대한 전반적인 �
 
 ### 과제별 강의 자료
 - 과제 01
-  - ide_and_build.pdf
+  - 02.ide_and_build.pdf
 - 과제 02
-  - data_type (rev3.0321).pdf
+  - 03.data_type (rev3.0321).pdf
 - 과제 03
-  - variables_and_operators.pdf
+  - 04.variables_and_operators.pdf
 - 과제 04
-  - stdio.pdf
+  - 05.stdio.pdf
 - 과제 05
-  - conditional_statement.pdf
+  - 06.conditional_statement.pdf
 - 과제 06
-  - loop_statement.pdf
+  - 07.loop_statement.pdf
 - 과제 07
-  - function.pdf
+  - 08.function.pdf
 - 과제 08
-  - array.pdf
+  - 09.array.pdf
 - 과제 09
-  - pointer.pdf
+  - 10.pointer.pdf
 - 과제 10
-  - pointer.pdf
+  - 10.pointer.pdf
 - 과제 11
-  - string.pdf
+  - 11.string.pdf
+- 과제 12
+  - 12.constructure.pdf
